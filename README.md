@@ -4,4 +4,17 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=kkristiansd&style=flat-square&color=green" alt="" width="130"/>
 </div>
+---
+
+### :man_technologist: About Me :
+  
+   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Latvia.
+   
+   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+   - :book: Studying software technology engineering.
+
+   - :boxing_glove: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+  
 
