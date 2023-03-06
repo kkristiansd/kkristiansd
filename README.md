@@ -1,4 +1,4 @@
 <div id="header" align="center">
- < src img = "file:///C:/Users/kdani/Downloads/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif" >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAwOWEzOGQxNWJhN2FmYTgwYWU2ZWEzZDc4ZDY1MTM0MmNhNDYxNCZjdD1n/kca22V3udzeY61obqv/giphy.gif" width="100"/>
 </div>
 
