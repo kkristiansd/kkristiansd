@@ -4,6 +4,8 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=kkristiansd&style=flat-square&color=green" alt="" width="130"/>
 </div>
+
+
 ---
 
 ### :man_technologist: About Me :
@@ -14,7 +16,10 @@
 
    - :book: Studying software technology engineering.
 
-   - :boxing_glove: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+   - :boxing_glove: In my free time, I am kickboxing.
 
+---
+
+###
   
 
