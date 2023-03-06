@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub profile! I'm a software engineering student from Latvia currently studying in Denmark. I'm passionate about building innovative solutions that make a difference in people's lives. Explore my projects and join me on my continuous learning journey!
 
 <!--
 **kkristiansd/kkristiansd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
