@@ -1,5 +1,5 @@
 <div align="center" >
-  <b> Hi there! 👋 My name is Kristians Danilovs</b>
+  <h1> Hi there! 👋 My name is Kristians</h1>
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WE8f3CZFsF9ylpcMhU/giphy.gif" width="500"/>
