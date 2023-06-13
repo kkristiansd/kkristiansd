@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
   
-   I am a upcomming Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Latvia.
+   I am an upcoming Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Latvia.
    
    - :telescope: I’m contributing to frontend and backend for building web applications.
 
